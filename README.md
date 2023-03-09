@@ -2,7 +2,7 @@
 - https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/issues/679#issuecomment-1159684931
 
 - [ ] Complete Git & GitHub Course
-- [ ] Introduction to Programming
+- [-] Introduction to Programming
   - - [ ] Types of languages
   - - [ ] Memory management
 - [ ] Flow of the program
